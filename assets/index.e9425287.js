@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";import{az as a,am as s,ai as c,aj as n}from"./vendor.5d21b69b.js";const r={},t={class:"h-full"};function _(d,l){const e=c("n-card");return n(),a("div",t,[s(e,{title:"\u591A\u7EA7\u83DC\u5355 - \u4E09\u7EA7\u83DC\u5355",class:"h-full shadow-sm rounded-16px"})])}var i=o(r,[["render",_]]);export{i as default};

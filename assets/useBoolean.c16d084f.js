@@ -1,0 +1,1 @@
+import{aF as f}from"./vendor.5d21b69b.js";function r(t=!1){const o=f(t);function e(a){o.value=a}function n(){e(!0)}function u(){e(!1)}function s(){e(!o.value)}return{bool:o,setBool:e,setTrue:n,setFalse:u,toggle:s}}export{r as u};

@@ -1,0 +1,1 @@
+import"./index.5410f799.js";import{ah as a,aj as e,ak as o,a7 as r}from"./vendor.5d21b69b.js";import{b as s}from"./index.3e1132a5.js";const _=a({setup(t){return(n,p)=>(e(),o(r(s),{"show-padding":!1}))}});export{_ as default};

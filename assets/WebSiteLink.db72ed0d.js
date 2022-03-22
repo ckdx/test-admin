@@ -1,0 +1,1 @@
+import{ah as n,aj as t,az as s,aw as a,ay as l}from"./vendor.5d21b69b.js";const o=["href"],u=n({props:{label:null,link:null},setup(e){return(r,c)=>(t(),s("p",null,[a("span",null,l(e.label),1),a("a",{class:"text-blue-500",href:e.link,target:"_blank"},l(e.link),9,o)]))}});export{u as _};

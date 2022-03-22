@@ -1,0 +1,1 @@
+import{ah as s,az as a,aw as t,aj as c}from"./vendor.5d21b69b.js";const o={class:"h-full"},_=s({setup(n){const e="https://staging-cn.vuejs.org/";return(r,l)=>(c(),a("div",o,[t("iframe",{class:"wh-full",src:e})]))}});export{_ as default};

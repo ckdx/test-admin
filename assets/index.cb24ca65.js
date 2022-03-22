@@ -1,0 +1,1 @@
+import t from"./index.97a4962d.js";import r from"./index.85232128.js";import{ah as s,ak as n,al as c,ai as m,aj as p,am as a,a7 as e}from"./vendor.5d21b69b.js";import"./avatar.ca22226b.js";import"./index.5410f799.js";const x=s({setup(_){return(i,f)=>{const o=m("n-space");return p(),n(o,{vertical:!0,size:16},{default:c(()=>[a(e(t)),a(e(r))]),_:1})}}});export{x as default};

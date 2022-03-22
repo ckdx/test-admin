@@ -1,0 +1,1 @@
+import{_ as a}from"./ExceptionBase.e091ffd6.js";import{ah as e,ak as o,a7 as r,aj as t}from"./vendor.5d21b69b.js";import"./index.5410f799.js";const f=e({setup(s){return(n,p)=>(t(),o(r(a),{type:"403"}))}});export{f as default};

@@ -1,0 +1,1 @@
+import{_ as a}from"./WebSiteLink.db72ed0d.js";import{ah as e,aj as l,ak as o}from"./vendor.5d21b69b.js";const c=e({props:{link:null},setup(n){return(r,t)=>(l(),o(a,{label:"github\u5730\u5740\uFF1A",link:n.link},null,8,["link"]))}});export{c as _};

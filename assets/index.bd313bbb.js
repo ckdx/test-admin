@@ -1,0 +1,1 @@
+import{ah as a,az as s,aw as t,aj as c}from"./vendor.5d21b69b.js";const o={class:"h-full"},p=a({setup(n){const e="https://www.naiveui.com";return(r,l)=>(c(),s("div",o,[t("iframe",{class:"wh-full",src:e})]))}});export{p as default};
